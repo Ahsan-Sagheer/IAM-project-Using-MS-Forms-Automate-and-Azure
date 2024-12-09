@@ -39,7 +39,8 @@ A Power Automate flow processes the form responses and creates users in Azure AD
 2. Retrieve form details and map them to Azure AD fields.
 3. Create a new user in Azure AD with default configurations (e.g., disabled account, predefined password).
 
-![Power Automate Workflow Screenshot](./path_to_workflow_screenshot)
+<img width="600" alt="Screenshot 2024-12-09 at 4 37 21 PM" src="https://github.com/user-attachments/assets/1225c6af-46a8-4fca-a481-e04f1ddc1e6a">
+
 
 ### 3. Dynamic Group Configuration
 

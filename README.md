@@ -1,6 +1,7 @@
 # Automating User Creation in Azure Using Microsoft Forms and Power Automate
 
-![Automating User Creation](./path_to_overview_screenshot)
+<img width="833" alt="Screenshot 2024-12-09 at 4 33 39 PM" src="https://github.com/user-attachments/assets/128b2652-214e-48db-a17e-ae48202874a5">
+
 
 ## Introduction
 

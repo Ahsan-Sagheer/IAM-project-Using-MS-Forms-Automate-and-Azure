@@ -1,12 +1,12 @@
 # Automating User Creation in Azure Using Microsoft Forms and Power Automate
 
-<img width="833" alt="Screenshot 2024-12-09 at 4 33 39 PM" src="https://github.com/user-attachments/assets/128b2652-214e-48db-a17e-ae48202874a5">
+
 
 
 ## Introduction
 
 This project demonstrates an automated solution for creating Azure Active Directory (Azure AD) users based on form submissions. By integrating Microsoft Forms with Power Automate, the onboarding process becomes efficient, accurate, and scalable.
-
+<img width="600" alt="Screenshot 2024-12-09 at 4 33 39 PM" src="https://github.com/user-attachments/assets/128b2652-214e-48db-a17e-ae48202874a5">
 ---
 
 ## Key Features

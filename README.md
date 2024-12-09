@@ -48,4 +48,17 @@ Dynamic Azure AD groups ensure users are automatically assigned to appropriate g
 
 **Example Membership Rule:**
 
+(user.department -eq "help desk")
+
+yaml
+Copy code
+
+<img width="882" alt="Screenshot 2024-12-09 at 6 42 48 PM" src="https://github.com/user-attachments/assets/e18d0d9a-1bde-4c6e-8283-2e662c2c36bf">
+
+
+### 4. Verification and Results
+
+User accounts and group assignments were verified in Azure AD for accuracy.
+
+![Verification Screenshot](./path_to_user_verification_screenshot)
 
